@@ -15,6 +15,13 @@ start cmd.bat
 ```
 ### After opening the file ( AS ADMINISTRATOR ), follow the steps and enjoy!
 
+## Features
+
+- `AimAssist` - Actually one of the best aim assists even though is old
+- `Autoclicker` - Solid customization and randomization
+- `Reach` - Doesn't bypasses servers like MMC. Cold, PvPLand should do on low settings.
+- `Blink` - Works great with no limit
+
 
 ## Packages & Langs
 
@@ -29,6 +36,11 @@ vroom did a major ( if not all ) help in this project to become real, all credit
 ## Screenshots 
 
 ![dashboard](https://github.com/Mvkbesteu/dreamweb/assets/53517019/2f6b7bc0-b053-4256-a42f-dad471026e93)
+
+
+https://github.com/Mvkbesteu/dreamweb/assets/53517019/f2861fe8-8438-406b-bd5f-d6a1c6612bb5
+
+
 
 ## Help
 
