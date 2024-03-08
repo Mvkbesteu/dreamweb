@@ -1,1 +1,0 @@
-drag dream.exe into injector.exe
