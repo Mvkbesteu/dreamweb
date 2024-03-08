@@ -15,14 +15,6 @@ start cmd.bat
 ```
 ### After opening the file ( AS ADMINISTRATOR ), follow the steps and enjoy!
 
-## Features
-
-- `AimAssist` - Actually one of the best aim assists even though is old
-- `Autoclicker` - Solid customization and randomization
-- `Reach` - Doesn't bypasses servers like MMC. Cold, PvPLand should do on low settings.
-- `Blink` - Works great with no limit
-
-
 ## Packages & Langs
 
 - `uvicorn` - Uvicorn is an ASGI web server implementation for Python.
