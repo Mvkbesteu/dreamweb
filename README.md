@@ -26,11 +26,10 @@ start cmd.bat
 
 vroom did a major ( if not all ) help in this project to become real, all credits goes to him. 
 
+## Screenshots 
+
+![dashboard](https://github.com/Mvkbesteu/dreamweb/assets/53517019/2f6b7bc0-b053-4256-a42f-dad471026e93)
+
 ## Help
 
 If you don't understand something join discord support server. https://discord.gg/KqKKBaeChK
-
-## Links
-https://dreamclient.xyz
-https://discord.gg/KqKKBaeChK
-
