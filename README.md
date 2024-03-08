@@ -13,8 +13,12 @@ Before opening the main file, please ensure you have all the required files.
 After opening the file as `administrator`
 ```
 start cmd.bat
-drag n drop `Dream.exe` into `injector.exe`
 ```
+
+## How to inject
+
+### drag n drop `Dream.exe` into `injector.exe`
+
 
 ## Packages & Langs
 
