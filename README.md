@@ -9,8 +9,8 @@ This repository is made for Dream WebGUI Client, you must have client files in o
 
 ## How to use
 
-Before opening the main file, please ensure you have all the files, you can find them at https://discord.gg/KqKKBaeChK
-After opening the file ( AS ADMINISTRATOR ), follow the steps and enjoy!
+Before opening the main file, please ensure you have all the required files.
+After opening the file as `administrator`
 ```
 start cmd.bat
 ```
