@@ -30,7 +30,7 @@ vroom did a major ( if not all ) help in this project to become real, all credit
 ![dashboard](https://github.com/Mvkbesteu/dreamweb/assets/53517019/2f6b7bc0-b053-4256-a42f-dad471026e93)
 
 
-https://github.com/Mvkbesteu/dreamweb/assets/53517019/f2861fe8-8438-406b-bd5f-d6a1c6612bb5
+
 
 
 
