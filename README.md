@@ -18,6 +18,7 @@ start cmd.bat
 ## How to inject
 
 ### drag n drop `Dream.exe` into `injector.exe`
+- `vroom.dll` make sure this isn't missing.
 
 
 ## Packages & Langs
