@@ -9,7 +9,7 @@ This repository is made for Dream WebGUI Client, you must have client files in o
 
 ## How to use
 
-### Before opening the main file, please ensure you have all the files, you can find them at [Discord]: https://discord.gg/KqKKBaeChK
+### Before opening the main file, please ensure you have all the files, you can find them at https://discord.gg/KqKKBaeChK
 ```
 open cmd.bat
 ```
@@ -28,8 +28,9 @@ vroom did a major ( if not all ) help in this project to become real, all credit
 
 ## Help
 
-If you don't understand something join discord support server. [Discord]: https://discord.gg/KqKKBaeChK
+If you don't understand something join discord support server. https://discord.gg/KqKKBaeChK
 
-[website-source]: https://dreamclient.xyz
-[support-source]: https://discord.gg/KqKKBaeChK
+## Links
+https://dreamclient.xyz
+https://discord.gg/KqKKBaeChK
 
