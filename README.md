@@ -9,11 +9,11 @@ This repository is made for Dream WebGUI Client, you must have client files in o
 
 ## How to use
 
-### Before opening the main file, please ensure you have all the files, you can find them at https://discord.gg/KqKKBaeChK
+Before opening the main file, please ensure you have all the files, you can find them at https://discord.gg/KqKKBaeChK
+After opening the file ( AS ADMINISTRATOR ), follow the steps and enjoy!
 ```
 start cmd.bat
 ```
-### After opening the file ( AS ADMINISTRATOR ), follow the steps and enjoy!
 
 ## Packages & Langs
 
