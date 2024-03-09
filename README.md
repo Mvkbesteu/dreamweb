@@ -11,7 +11,6 @@ This repository is made for Dream WebGUI Client, you must have client files in o
 ## How to use
 
 Before opening the main file, please ensure you have all the required files.
-After opening the file as `administrator`
 
 ### Install all dependencies from the [Discord Server](https://discord.gg/w5xhJx3UPt)
 Extract the files
