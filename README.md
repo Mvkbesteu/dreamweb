@@ -27,6 +27,8 @@ start cmd.bat
 - `uvicorn` - Uvicorn is an ASGI web server implementation for Python.
 - `fastapi` - FastAPI is a modern, fast (high-performance), web framework for building APIs
 - `python` - garbage slow non multithreaded language but did the job for this project.
+- `c++` - C++ excels for writing cheats due to its low-level control, efficient memory management, and extensive libraries for manipulation.
+- `html` - HTML is ideal for web GUI apps due to its simplicity, versatility, cross-platform compatibility.
 
 ## Contributing
 
