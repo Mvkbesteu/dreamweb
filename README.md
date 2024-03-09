@@ -20,7 +20,7 @@ Extract the files
 ```
 start cmd.bat
 ```
-## Default keyword to start is `dream`
+### Default keyword to start is `dream`
 
 ## How to inject
 
