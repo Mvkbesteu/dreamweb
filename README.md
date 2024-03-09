@@ -14,8 +14,8 @@ Before opening the main file, please ensure you have all the required files.
 After opening the file as `administrator`
 
 ### Install all dependencies from the [Discord Server](https://discord.gg/w5xhJx3UPt)
-### Extract the files
-#### paste your path in cmd.bat & keyword ( line 9, 37 )
+Extract the files
+ paste your path in cmd.bat & keyword ( line 9, 37 )
 
 ```
 start cmd.bat
