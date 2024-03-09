@@ -20,7 +20,7 @@ start cmd.bat
 
 ### drag n drop `Dream.exe` into `injector.exe`
 -  `vroom.dll` make sure isn't missing.
--  You can find the `missingpack.zip` in the ![https://discord.gg/w5xhJx3UPt](https://img.shields.io/badge/Discord-273bcf)
+-  You can find the `missingpack.zip` in the [Discord](https://discord.gg/w5xhJx3UPt)
 
 
 ## Packages & Langs
