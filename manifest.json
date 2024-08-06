@@ -1,0 +1,12 @@
+{
+    "name": "dreamweb",
+    "version": "1.0",
+    "description": "A webgui ghost client built in C++, hosted locally.",
+    "license": "MIT",
+    "url": "https://github.com/Mvkbesteu/dreamweb/archive/refs/tags/v1.0.zip",  // Assuming the actual executable is dreamweb.exe
+    "depends": [""],
+    "homepage": "https://github.com/Mvkbesteu/dreamweb",
+    "hash": "",
+    "bin": "cmd.bat"
+  }
+  
