@@ -38,7 +38,7 @@ start cmd.bat
 
 ## Contributing
 
-vroom did a major ( if not all ) help in this project to become real, all credits goes to him. 
+vroom for helping reverse engineering
 
 ## Screenshots 
 
@@ -51,4 +51,4 @@ vroom did a major ( if not all ) help in this project to become real, all credit
 
 ## Help
 
-If you don't understand something join discord support server. https://discord.gg/KqKKBaeChK
+Just open a git issue, pretty old client still bypasses most anticheats
