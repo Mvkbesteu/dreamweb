@@ -6,7 +6,8 @@
 
 ## About
 
-This repository is made for Dream WebGUI Client, you must have client files in order to use this.
+This repository is made for Dream Advanced & WebGUI Client, you must have client files in order to use this.
+Repository contains both versions.
 
 ## How to use
 
