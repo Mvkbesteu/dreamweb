@@ -34,6 +34,7 @@ start cmd.bat
 - `python` - garbage slow non multithreaded language but did the job for this project.
 - `c++` - C++ excels for writing cheats due to its low-level control, efficient memory management, and extensive libraries for manipulation.
 - `html` - HTML is ideal for web GUI apps due to its simplicity, versatility, cross-platform compatibility.
+- `java` - For interacting with the JNI
 - `batch` - Batch scripting is advantageous for a cheat loader due to its lightweight nature, ease of customization, and quick development turnaround.
 
 ## Contributing
